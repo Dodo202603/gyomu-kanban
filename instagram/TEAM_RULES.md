@@ -11,6 +11,7 @@
 - **顔出しなし・声出しなし**。本人の顔と肉声（ナレーション・会話・実況）は使わない。伝えるのは映像・テロップ・自然音・BGM。手元・足元・後ろ姿・シルエットは可
 - **基本は「完成版」を出す**。カット順・テロップ・音・色まですべて1案に決め切った、そのまま使える状態で提出する
 - **「CapCut版で」と指示があった時だけ**、オーナーがCapCutで仕上げる余地を残した版を出す
+- コメント返信：**丁寧だけど、失礼のない程度の笑いあり**。自虐の軽い笑いはOK、相手をいじる笑いはNG
 - 人混みを避けた早朝行動が基本スタイル（早朝の光・静けさは強い武器）
 
 ## 絶対ルール
@@ -36,7 +37,7 @@
 【確信度】高／中／低
 ```
 
-## チーム体制（20名）
+## チーム体制（22名）
 | 部署 | エージェント |
 |---|---|
 | 統括・品質 | ig-chief-editor / ig-quality-checker / ig-fact-checker / ig-risk-guard |
@@ -45,3 +46,4 @@
 | 文章 | ig-caption-writer / ig-search-tagger / ig-humanizer |
 | ストーリーズ | ig-stories-producer |
 | 分析 | ig-insight-analyst / ig-trend-researcher |
+| コメント対応 | ig-comment-triage / ig-comment-replier |
