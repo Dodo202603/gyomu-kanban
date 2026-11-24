@@ -17,20 +17,6 @@
       }
     }
   },
-  "skillOverrides": {
-    "agent-skills:code-simplify": "off",
-    "agent-skills:code-simplification": "off",
-    "agent-skills:review": "off",
-    "agent-skills:code-review-and-quality": "off",
-    "agent-skills:plan": "user-invocable-only",
-    "agent-skills:spec": "user-invocable-only",
-    "agent-skills:test": "user-invocable-only",
-    "agent-skills:a11y": "user-invocable-only",
-    "agent-skills:webperf": "user-invocable-only",
-    "agent-skills:ship": "user-invocable-only",
-    "agent-skills:constraints": "user-invocable-only",
-    "agent-skills:build": "user-invocable-only"
-  },
   "hooks": {
     "PreToolUse": [
       {
